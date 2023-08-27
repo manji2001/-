@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 1. [蒋运的博客](https://blog.jiangyun.fun/)
 
 2. [Bangumi_我的时光机](https://bgm.tv/user/752732)
