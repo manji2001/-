@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="shortcut icon" type="image/png" href="favicon_mj_32.png">
 
 1. [蒋运的博客](https://blog.jiangyun.fun/)
 
